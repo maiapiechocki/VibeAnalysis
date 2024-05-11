@@ -79,7 +79,7 @@ def record_audio(filename):
 
 
 def continuous_recording(queue):
-    recording_number = 0  # Make sure this starts as an integer
+    recording_number = 0
     last_filename = None
     
     while True:
