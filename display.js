@@ -1,5 +1,4 @@
 // p5.js script for visualizing sentiment data
-
 /*
 let sentimentScore;
 let sentimentMagnitude;
