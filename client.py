@@ -91,10 +91,10 @@ def analyze_sentiment(text_content: str = "I am so happy and joyful.") -> [float
 
     client = language_v2.LanguageServiceClient()
 
-    # Define the type of document
+  
     document_type = language_v2.Document.Type.PLAIN_TEXT
 
-    # Set up the document with the content and type
+    
     document = {
         "content": text_content,
         "type_": document_type,
