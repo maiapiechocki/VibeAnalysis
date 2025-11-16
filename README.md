@@ -1,5 +1,3 @@
-# Echo Vibe Room
-
 ## Overview
 This project is a sentiment analysis application that records audio, transcribes it, performs sentiment analysis on the transcriptions, and visualizes the sentiment data. It consists of three main components:
 
